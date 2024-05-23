@@ -29,6 +29,14 @@ The project employed various machine learning techniques, including:
 - **K-Nearest Neighbors (KNN)**
 - **Ensemble Models (Random Forest and XGBoost)**
 
+## Evaluation Metrics
+The models were evaluated using the following metrics:
+
+1. **Accuracy**: The proportion of correctly classified data points, representing the overall effectiveness of the model in making accurate predictions.
+2. **Precision**: The proportion of predicted positive labels that are actually correct (positive predictive value).
+3. **Recall**: The proportion of actual positive labels that are correctly predicted (sensitivity).
+4. **F1-Score**: The harmonic mean of precision and recall, providing a balanced measure of the model's performance.
+
 ## GUI
 A graphical user interface (GUI) was built using Gradio, a Python library for creating customizable UI components around machine learning models. The GUI allows users to interact with the trained model and authenticate audio files by uploading them and receiving the classification result (human-generated or AI-generated).
 
