@@ -8,9 +8,9 @@ This project aims to develop an advanced tool for authenticating audio material 
 ## Dataset
 The project utilized two datasets:
 
-1. **LJ Speech Dataset**: A collection of over 13,100 short audio clips (1-10 seconds each) featuring a single speaker reading non-fiction text, totaling 24 hours of high-fidelity audio. This dataset represents human-generated audio.
+1. **LJ Speech Dataset**: A collection of over 13,100 short audio clips (1-10 seconds each) featuring a single speaker reading non-fiction text, totaling 24 hours of high-fidelity audio. This dataset represents human-generated audio - https://keithito.com/LJ-Speech-Dataset/
 
-2. **WaveFake Dataset**: Consists of 117,983 generated audio clips (175 hours total) showcasing the capabilities of various deep learning architectures used to create audio deepfakes (MelGAN, Parallel WaveGAN, HiFi-GAN). This dataset represents AI-generated audio.
+3. **WaveFake Dataset**: Consists of 117,983 generated audio clips (175 hours total) showcasing the capabilities of various deep learning architectures used to create audio deepfakes (MelGAN, Parallel WaveGAN, HiFi-GAN). This dataset represents AI-generated audio - https://zenodo.org/records/5642694
 
 ## Process Methodology
 1. **Data Collection**: The LJ Speech and WaveFake datasets were obtained, representing human-generated and AI-generated audio samples, respectively.
@@ -44,3 +44,8 @@ A graphical user interface (GUI) was built using Gradio, a Python library for cr
 The Random Forest model emerged as the best-performing model, achieving an accuracy of 98%, precision of 0.97, recall of 1.0, and an F1 score of 0.98. These exceptional results demonstrate the model's ability to accurately classify audio sources as either human-generated or AI-generated.
 
 The project successfully developed a reliable tool for audio authentication, contributing to the mitigation of deepfake audio threats and fostering trust in the digital content landscape.
+
+# References
+- Dessa, "Detecting audio deepfakes with AI - dessa news - medium," Medium, Dec. 12, 2021. [Online]. Available: https://medium.com/dessa-news/detecting-audio-deepfakes-f2edfd8e2b35
+- E. Daehnhardt, "Audio Signal Processing with Python's Librosa," Elena's AI and Python Coding Blog, Living With AI daehnhardt.com, Mar. 05, 2023. https://daehnhardt.com/blog/2023/03/05/python-audio-signal-processing-with-librosa/
+- https://wwwaltexsoft.com/blog/audio-analysis/
