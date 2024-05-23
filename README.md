@@ -46,6 +46,15 @@ The Random Forest model emerged as the best-performing model, achieving an accur
 The project successfully developed a reliable tool for audio authentication, contributing to the mitigation of deepfake audio threats and fostering trust in the digital content landscape.
 
 # References
+- S. Team, "Reports - Sensity AI," Sensity, Dec. 05, 2023. https://sensity.ai/reports/
 - Dessa, "Detecting audio deepfakes with AI - dessa news - medium," Medium, Dec. 12, 2021. [Online]. Available: https://medium.com/dessa-news/detecting-audio-deepfakes-f2edfd8e2b35
+- The LJ Speech Dataset (keithito.com)
+- WaveFake: A data set to facilitate audio DeepFake detection (zenodo.org)
+- Feature extraction — librosa 0.10.1 documentation
 - E. Daehnhardt, "Audio Signal Processing with Python's Librosa," Elena's AI and Python Coding Blog, Living With AI daehnhardt.com, Mar. 05, 2023. https://daehnhardt.com/blog/2023/03/05/python-audio-signal-processing-with-librosa/
 - https://wwwaltexsoft.com/blog/audio-analysis/
+- R. Wells, "Upsampling and Downsampling Imbalanced Data in Python," wellsr.com. https://wellsr.com/python/upsampling-and-downsampling-imbalanced-data-in-python
+- Mcubaa, M., Singha, A., Ikuesanb, R. A., & Ventera, H. (2023). The Effect of Deep Learning Methods on Deepfake Audio Detection for Digital Investigation. In M. Mcubaa, A. Singha, R. A. Ikuesanb, & H. Ventera (Eds.), Procedia Computer Science (Vol. 219, pp. 211–219). Elsevier B.V.
+- Bird, J.J., Lotfi, A. (Nottingham Trent University, UK). "REAL-TIME DETECTION OF AI-GENERATED SPEECH FOR DEEPFAKE VOICE CONVERSION." In Proceedings of the International Conference on Artificial Intelligence (ICAI), 1st edition. Nottingham, UK: Nottingham University Press, 2023
+- A. Hamza et al., "Deepfake Audio Detection via MFCC Features Using Machine Learning," in IEEE Access, vol. 10, pp. 134018-134028, 2022, doi: 10.1109/ACCESS.2022.3231480.
+- E. Daehnhardt, "Audio Signal Processing with Python's Librosa," Elena's AI and Python Coding Blog, Living With AI daehnhardt.com, Mar. 05, 2023. https://daehnhardt.com/blog/2023/03/05/python-audio-signal-processing-with-librosa/
